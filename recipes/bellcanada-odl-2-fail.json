@@ -1,0 +1,10 @@
+{
+	"exp_name": "bellcanada-2-fail",
+	"topo_name": "Bellcanada",
+	"available_controllers": 12,
+	"first_selection_controller_count": 9,
+	"controller_capacity": 750000,
+	"cc_factor": 0.5,
+	"failures": 2,
+	"iterations": 50
+}

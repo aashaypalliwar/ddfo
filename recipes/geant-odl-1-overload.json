@@ -1,0 +1,10 @@
+{
+	"exp_name": "geant-1-overload",
+	"topo_name": "Geant",
+	"available_controllers": 10,
+	"first_selection_controller_count": 6,
+	"controller_capacity": 750000,
+	"cc_factor": 0.5,
+	"overloads": 1,
+	"iterations": 51
+}
